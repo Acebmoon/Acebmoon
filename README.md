@@ -30,8 +30,8 @@ Vulnerability and secret detector for source code.
 - **AWS Teaching Assistant (UNIFACS):** weekly classes on EC2, Linux and servers.
 
 ## Certifications
-- Algorithms and Programming (UNIFACS, Jul 2026)
-- Digital Exploration and Technological Fundamentals (UNIFACS, Jul 2026)
+- [Algorithms and Programming](https://linkedin.com/in/pedro-fran%C3%A7a-leal-1944652a2) — UNIFACS, Jul 2026
+- [Digital Exploration and Technological Fundamentals](https://linkedin.com/in/pedro-fran%C3%A7a-leal-1944652a2) — UNIFACS, Jul 2026
 
 ## Contact
 [LinkedIn](https://linkedin.com/in/pedro-fran%C3%A7a-leal-1944652a2) · pedrofrancaleal@gmail.com
