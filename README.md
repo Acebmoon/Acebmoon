@@ -6,17 +6,20 @@ Meu objetivo é trabalhar como Cloud Engineer. Gosto de construir projetos do ze
 
 ## Tech Stack & Ferramentas
 **Linguagens e frameworks:** TypeScript · JavaScript · Java · C++ · Node.js · React · Next.js · Spring Boot
+
 **Cloud, dados e ferramentas:** AWS (EC2) · Supabase · PostgreSQL · Vercel · GitHub Actions · Linux · Git
 
 ## Projetos em Destaque
 ### TeamTalk
 Chat corporativo em equipe, feito como avaliação da UNIFACS.
+
 - **O que faz:** cadastro e login, contatos por @, mensagens em tempo real, perfil com foto e painel de administração.
 - **Tecnologias:** Next.js · TypeScript · Supabase (Auth, RLS, Realtime) · Vercel · GitHub Actions
 - **Escopo:** projeto em equipe
 
 ### CodeSentry
 Detector de vulnerabilidades e segredos em código.
+
 - **Tecnologias:** cibersegurança · análise de código
 
 ## Experiência
